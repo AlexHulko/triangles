@@ -1,0 +1,72 @@
+* {
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+}
+
+
+body {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+  color: #fff;
+  background-image:url(img/1625509452_16-kartinkin-com-p-kosmos-fon-minimalizm-krasivie-foni-16.png);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mainDiv: {
+  display: block;
+
+
+
+}
+
+.tooltip {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #d6ebcd;
+}
+
+#template-store {
+  display: none;
+}
+
+.yes {
+    background-color: rgba(147, 83, 175, 0.17);
+    min-height: 5vh;
+   color: #9bdd77;
+   font-size: 20px;
+   width: 70%;
+    height: 50%;
+   padding: 8px;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.no {
+    background-color: rgba(201, 92, 92, 0.13);
+     min-height: 10vh;
+   color: #f5276f;
+   font-size: 20px;
+   width: 70%;
+   padding: 8px;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+.pep {
+  color: #000;
+}
+
